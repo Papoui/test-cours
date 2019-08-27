@@ -1,0 +1,23 @@
+{
+  "name": "test--cours",
+  "version": "1.0.0",
+  "description": "test de bots ",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Papoui/test-cours.git"
+  },
+  "author": " <darckrim64@gmail.com> (Papoui <darckrim64@gmail.com>)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Papoui/test-cours/issues"
+  },
+  "homepage": "https://github.com/Papoui/test-cours#readme"
+}
